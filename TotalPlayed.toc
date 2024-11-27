@@ -1,0 +1,15 @@
+## Interface: 110002
+
+## Title: TotalPlayed
+## Notes: Add-on for checking account playtime
+## Version: 1.0.0
+## SavedVariables: TotalPlayed 
+
+
+TotalPlayed.lua
+Commands.lua
+
+locale\koKR.lua
+locale\enUS.lu
+
+libs\AceLocale-3.0\AceLocale-3.0.xml
